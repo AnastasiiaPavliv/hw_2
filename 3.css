@@ -1,0 +1,35 @@
+*{margin: 0;}
+.widget{
+    height: 300px;
+    background: mediumpurple;
+    display: flex;
+justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-family: Algerian, sans-serif;
+}
+.small{
+    width: 300px;
+    height: 350px;
+    background: blueviolet;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px ;
+    font-family: Algerian, sans-serif;
+}
+.widgets{
+    display: flex;
+    justify-content: space-between;
+}
+.contact{
+    background:rebeccapurple;
+    height: 350px;
+    font-family: Algerian, sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
